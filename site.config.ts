@@ -1,21 +1,21 @@
 const SITE_CONFIG = {
-	siteName: "一个人丶99 Blog",
+	siteName: "Hyoban's Blog",
 	siteLanguage: "zh-Hans",
-	description: "一个人丶99 的个人博客，胡乱写些东西",
+	description: "Hyoban 的个人博客，胡乱写些东西",
 	avatarPath: "/hyoban.png",
 	faviconPath: "/favicon.svg",
 	links: [
 		{
 			type: "GitHub",
-			url: "https://github.com/WangGuanJingJi",
+			url: "https://github.com/hyoban",
 		},
 		{
 			type: "Twitter",
-			url: "https://twitter.com/ygr___99",
+			url: "https://twitter.com/0xhyoban",
 		},
 		{
 			type: "Email",
-			url: "mailto:196156709@qq.com",
+			url: "mailto:hi@hyoban.cc",
 		},
 	],
 	codeTheme: {
@@ -23,10 +23,10 @@ const SITE_CONFIG = {
 		dark: "github-dark",
 	},
 	siteUrl: "https://hyoban.cc",
-	authorName: "一个人丶99",
+	authorName: "Hyoban",
 	authorLink: "https://hyoban.cc",
 	authorEmail: "hi@hyoban.cc",
-	timeZone: "Asia/SanYa",
+	timeZone: "Asia/Shanghai",
 } as const
 
 export default SITE_CONFIG
