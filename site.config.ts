@@ -22,10 +22,10 @@ const SITE_CONFIG = {
 		light: "github-light",
 		dark: "github-dark",
 	},
-	siteUrl: "https://hyoban.cc",
-	authorName: "ygr_99",
-	authorLink: "https://hyoban.cc",
-	authorEmail: "hi@hyoban.cc",
+	siteUrl: "https://notionblog.喜欢上一个人.fun",
+	authorName: "一个人丶99",
+	authorLink: "https://notionblog.喜欢上一个人.fun",
+	authorEmail: "196156709@qq.com",
 	timeZone: "Asia/Shanghai",
 } as const
 
